@@ -1,0 +1,10 @@
+Algoritmo "PrimeiroAlgoritmo"
+
+Var
+//SEM VARIAVEIS POR ENQUANTO
+
+Inicio
+
+      ESCREVA(" OLÁ MUNDO! ")
+
+Fimalgoritmo
