@@ -1,12 +1,3 @@
-# LOGICAPROGRAMACAO
+PrimeiroAlgoritmo
 
-Algoritmo "PrimeiroAlgoritmo"
-
-Var
-//SEM VARIAVEIS NO MOMENTO
-
-Inicio
-
-      ESCREVA(" OLÁ MUNDO! ")
-
-Fimalgoritmo
+Código será atualizado para estudos em lógica de programação
