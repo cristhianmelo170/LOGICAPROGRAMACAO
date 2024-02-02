@@ -9,7 +9,7 @@ Var
 Inicio
 
 //saida de dados SEM quebra de linha;
-      escreval("Bom dia!")
+      escreva("Bom dia!")
 
       
 //saida de dados COM quebra de linha automatica;
